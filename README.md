@@ -1,5 +1,5 @@
 # Cross distillation
-This repository is for our paper [Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450), AAAI 2020.
+This repository is for our paper [Few Shot Network Compression via Cross Distillation](https://arxiv.org/abs/1911.09450), `Haoli Bai`, Jiaxiang Wu, Michael Lyu, Irwin King, AAAI 2020.
 
 ## Dependencies:
 * python: 3.6+
